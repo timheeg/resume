@@ -1,38 +1,37 @@
-# Strengths
+Forward leaning Software Engineer with 15+ years with full development life-cycle, Masters degree, technical lead pushing best practices and design patterns, project team lead focused on Agile processes in diverse program environments.
 
-Ability to visualize and conceptualize complex integration issues.
+## Strengths
 
+Ability to visualize and conceptualize complex integration issues
+<br/>
 Adapt quickly to new environments and challenges.
-
+<br/>
 Apply new technologies and methodologies to solve complex problems.
-
+<br/>
 Communicate technical impacts, resource utilization, and alternatives for risk assessment.
-
+<br/>
 Agilist, Clean coder, focused on Simplicity, Patterns, Testability, and DRY.
-
+<br/>
 Reliable, hardworking, self-motivated, focused.
 
-# Technical Skills
+<br/>
 
-Languages: C++, Python, Java, Groovy, Javascript, Qt, HTML, CSS, JSON, XML, OWL, RDF, Bash, Batch
+## Technical Skills
 
-Build: Jenkins, Conan, Cmake, Maven, npm, Gradle, Make/qmake
+* **Languages**: C++, Python, Java, Groovy, Javascript, Qt, HTML, CSS, JSON, XML, OWL, RDF, Bash, Batch
+* **Build**: Jenkins, Conan, Cmake, Maven, npm, Gradle, Make/qmake
+* **SCM**: Git, Bitbucket, SVN, github
+* **Tools**: Nexus, Artifactory, Visual Studio, VS Code, PyCharm, JIRA, Confluence
+* **Storage**: MySql, PostGIS/Postgres, Hadoop, MongoDB, SQL, JDBC/ODBC
+* **Servers**: Apache, nginx, reverse proxy
+* **Cloud**: Hadoop MapReduce, Docker, Vagrant, VirtualBox, Packer, vSphere
+* **OS**: Windows, Linux (RHEL, CentOS, Ubuntu), Solaris
 
-SCM: Git, Bitbucket, SVN, github
+<br/>
 
-Tools: Nexus, Artifactory, Visual Studio, VS Code, PyCharm, JIRA, Confluence
+## Professional Experience
 
-Storage: MySql, PostGIS/Postgres, Hadoop, MongoDB, SQL, JDBC/ODBC
-
-Servers: Apache, nginx, reverse proxy
-
-Cloud: Hadoop MapReduce, Docker, Vagrant, VirtualBox, Packer, vSphere
-
-OS: Windows, Linux (RHEL, CentOS, Ubuntu), Solaris
-
-# Professional Experience
-
-## Senior Software Engineer 2016-Present, Software Engineer 2008-2016, Leidos/SAIC
+**Senior Software Engineer 2016-Present, Software Engineer 2008-2016, Leidos/SAIC**
 
 * Product lead for a video processing, playback and exploitation app.
 * Lead development team of 5-10 devs, testers, devops with architecture, design,
@@ -54,15 +53,15 @@ video playback with geospatial display.
 and web services.
 * Developed an automated documentation process to generate manuals using CI/CD
 Jenkins pipeline, markdown, pandoc, sphinx, python to generate HTML, docx, pdf.
-* Developed CI pipeline for multi-application multi-platform build, install, and
+* Developed CI/CD pipeline for multi-application multi-platform build, install, and
 deployment using Jenkins master/agent, Jenkins DSL.
 * Compiled compilers and library dependencies, across OS, toolchains, and linkers.
 * Developed automated build systems for Windows and Solaris using CMake, conan,
 Gradel, python, qmake, and Jenkins.
 * Administered JIRA, Confluence, Bitbucket, HipChat, Crucible, FishEye tools
-across teams.
+across teams. Designed and maintained JIRA workflows across teams.
 
-## Senior Software Engineer 2004-2008, Software Engineer 2001-2004, Intern 2001, LexisNexis
+**Senior Software Engineer 2004-2008, Software Engineer 2001-2004, Intern 2001, LexisNexis**
 
 * Managed SDLC including analysis, feasibility, project sizing, technology
 solution strategy and business process recommendations, high and low level system
@@ -92,7 +91,7 @@ non-technical customers improving time-to-market and infrastructure scalability.
 Part of a cross-functional team collaborating with company architects and business
 analysts.
 
-## Teaching Assistant 2001, Tutor 1998-2001, Wright State University
+**Teaching Assistant 2001, Tutor 1998-2001, Wright State University**
 
 * Responsible for teaching a CS laboratory in C++ to undergraduate and graduate
 students, and grading assignments, programming projects, and course examinations.
@@ -100,18 +99,22 @@ students, and grading assignments, programming projects, and course examinations
 programming concepts and language constructs in C++. Assisted in their
 understanding of programming projects and lab exercises.
 
-## Software Developer 1999, Software Test Analyst 1997, 1998, Gasper Corp
+**Software Developer 1999, Software Test Analyst 1997, 1998, Gasper Corp**
 
 * Responsible for software maintenance using Visual Basic.
 * Responsible for system testing, software and hardware installation, and automation implementation.
 
-# Education
+<br/>
 
-Masters of Science in Computer Science Wright State University, 2016, 4.0 GPA
+## Education
 
-Bachelor of Science in Computer Science, Wright State University, 2001, 3.1 GPA
+**Masters of Science** in Computer Science Wright State University, 2016, 4.0 GPA
+<br/>
+**Bachelor of Science** in Computer Science, Wright State University, 2001, 3.1 GPA
 
-# Miscellaneous
+<br/>
+
+## Miscellaneous
 
 Outstanding Student of the Year, Master of Science in Computer Science, WSU Recipient 2016
 
