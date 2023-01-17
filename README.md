@@ -1,4 +1,4 @@
-Forward leaning Software Engineer with 15+ years with full development life-cycle, Masters degree, technical lead pushing best practices and design patterns, project team lead focused on Agile processes in diverse program environments.
+Forward leaning Software Engineer with 20+ years with full development life-cycle, Masters degree, technical lead pushing best practices and design patterns, project team lead focused on Agile processes in diverse program environments.
 
 ## Strengths
 
@@ -18,21 +18,29 @@ Reliable, hardworking, self-motivated, focused.
 
 ## Technical Skills
 
-* **Languages**: C++, Python, Java, Groovy, Javascript, Qt, HTML, CSS, JSON, XML, OWL, RDF, Bash, Batch
-* **Build**: Jenkins, Conan, Cmake, Maven, npm, Gradle, Make/qmake
-* **SCM**: Git, Bitbucket, SVN, github
-* **Tools**: Nexus, Artifactory, Visual Studio, VS Code, PyCharm, JIRA, Confluence
+* **Languages**: C++, Python, Java, Groovy, Javascript, Qt, HTML, CSS, JSON, XML, LaTeX, OWL, RDF, Bash, Batch
+* **Build**: GitLab, Cmake, Vcpkg, Jenkins, Conan, Maven, npm, Gradle, Make/qmake
+* **SCM**: Git, GitLab, Bitbucket, SVN, github
+* **Tools**: Artifactory, Nexus, Visual Studio, VS Code, PyCharm, JIRA, Confluence
 * **Storage**: MySql, PostGIS/Postgres, Hadoop, MongoDB, SQL, JDBC/ODBC
 * **Servers**: Apache, nginx, reverse proxy
-* **Cloud**: Hadoop MapReduce, Docker, Vagrant, VirtualBox, Packer, vSphere
+* **Cloud**: Docker, gRPC, Ansible, Vagrant, VirtualBox, Packer, vSphere
 * **OS**: Windows, Linux (RHEL, CentOS, Ubuntu), Solaris
 
 <br/>
 
 ## Professional Experience
 
-**Senior Software Engineer 2016-Present, Software Engineer 2008-2016, Leidos/SAIC**
+**Principal Software Engineer 2021-Present, Hellebore Consulting Group**
 
+* TS/SCI 2021-present
+* A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
+* SAP experience in SAPF
+
+
+**Senior Software Engineer 2016-2021, Software Engineer 2008-2016, Leidos/SAIC**
+
+* TS/SCI 2009-2021
 * Product lead for a video processing, playback and exploitation app.
 * Lead development team of 5-10 devs, testers, devops with architecture, design,
 planning, estimation, tasking, coordination, and process. Developed processes
@@ -109,12 +117,16 @@ understanding of programming projects and lab exercises.
 ## Education
 
 **Masters of Science** in Computer Science Wright State University, 2016, 4.0 GPA
-<br/>
+
 **Bachelor of Science** in Computer Science, Wright State University, 2001, 3.1 GPA
 
 <br/>
 
 ## Miscellaneous
+
+CompTIA Security+ CE, 2022-present
+
+SAFe4 Certified Practitioner, 2017-2018
 
 Outstanding Student of the Year, Master of Science in Computer Science, WSU Recipient 2016
 
