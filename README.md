@@ -1,4 +1,4 @@
-Forward leaning Software Engineer with 20+ years with full development life-cycle, Masters degree, technical lead pushing best practices and design patterns, project team lead focused on Agile processes in diverse program environments.
+Forward leaning Software Engineer with 20+ years with full development life-cycle. Masters degree. Technical lead focused on best practices, design patterns, and Agile processes in diverse program environments. Focus on concurrency, real-time and stream processing.
 
 ## Strengths
 
