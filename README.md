@@ -18,14 +18,16 @@ Reliable, hardworking, self-motivated, focused.
 
 ## Technical Skills
 
-* **Languages**: C++, Python, Java, Groovy, Javascript, Qt, HTML, CSS, JSON, XML, LaTeX, OWL, RDF, Bash, Batch
-* **Build**: GitLab, Cmake, Vcpkg, Jenkins, Conan, Maven, npm, Gradle, Make/qmake
+* **Languages**: C++ (MSVC, gnu, clang), Python, Java, Groovy, Javascript, Qt, HTML, CSS, JSON, XML, OpenGL, Protobuf, LaTeX, Bash, Batch
+* **Build**: GitLab, Cmake, Vcpkg, Jenkins, Conan, Maven, npm, Gradle, make
 * **SCM**: Git, GitLab, Bitbucket, SVN, github
-* **Tools**: Artifactory, Nexus, Visual Studio, VS Code, PyCharm, JIRA, Confluence
-* **Storage**: MySql, PostGIS/Postgres, Hadoop, MongoDB, SQL, JDBC/ODBC
+* **Tools**: Artifactory, Nexus, Visual Studio, VS Code, PyCharm, GitLab, JIRA, Confluence
+* **Storage**: Memory image, Ring buffers, MySql, PostGIS/Postgres, Hadoop, MongoDB, SQL
 * **Servers**: Apache, nginx, reverse proxy
-* **Cloud**: Docker, gRPC, Ansible, Vagrant, VirtualBox, Packer, vSphere
+* **Comms**: HTTP, REST, UDP, TCP, nanomsg, ZeroMQ, IPC, pipes, gRPC
+* **Cloud**: Docker, gRPC, Ansible, Vagrant, VirtualBox, Packer, vmWare
 * **OS**: Windows, Linux (RHEL, CentOS, Ubuntu), Solaris
+* **Video**: MPEG-2, MPEG-2 TS, ffmpeg
 
 <br/>
 
