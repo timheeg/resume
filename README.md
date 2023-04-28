@@ -33,14 +33,16 @@ Reliable, hardworking, self-motivated, focused.
 
 ## Professional Experience
 
-**Principal Software Engineer 2021-Present, Hellebore Consulting Group**
+**Principal Software Engineer 2021-Present** <br/>
+**LinQuest LLC (acquired Hellebore Consulting Group in Jan 2023)**
 
 * TS/SCI 2021-present
 * A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
 * SAP experience in SAPF
 
 
-**Senior Software Engineer 2016-2021, Software Engineer 2008-2016, Leidos/SAIC**
+**Senior Software Engineer 2016-2021, Software Engineer 2008-2016** <br/>
+**Leidos Inc. (formerly SAIC)**
 
 * TS/SCI 2009-2021
 * Product lead for a video processing, playback and exploitation app.
@@ -71,7 +73,8 @@ Gradel, python, qmake, and Jenkins.
 * Administered JIRA, Confluence, Bitbucket, HipChat, Crucible, FishEye tools
 across teams. Designed and maintained JIRA workflows across teams.
 
-**Senior Software Engineer 2004-2008, Software Engineer 2001-2004, Intern 2001, LexisNexis**
+**Senior Software Engineer 2004-2008, Software Engineer 2001-2004, Intern 2001** <br/>
+**LexisNexis**
 
 * Managed SDLC including analysis, feasibility, project sizing, technology
 solution strategy and business process recommendations, high and low level system
@@ -101,7 +104,8 @@ non-technical customers improving time-to-market and infrastructure scalability.
 Part of a cross-functional team collaborating with company architects and business
 analysts.
 
-**Teaching Assistant 2001, Tutor 1998-2001, Wright State University**
+**Teaching Assistant 2001, Tutor 1998-2001** <br/>
+**Wright State University**
 
 * Responsible for teaching a CS laboratory in C++ to undergraduate and graduate
 students, and grading assignments, programming projects, and course examinations.
@@ -109,7 +113,8 @@ students, and grading assignments, programming projects, and course examinations
 programming concepts and language constructs in C++. Assisted in their
 understanding of programming projects and lab exercises.
 
-**Software Developer 1999, Software Test Analyst 1997, 1998, Gasper Corp**
+**Software Developer 1999, Software Test Analyst 1997, 1998** <br/>
+**Gasper Corp (acquired by NCR 1999)**
 
 * Responsible for software maintenance using Visual Basic.
 * Responsible for system testing, software and hardware installation, and automation implementation.
@@ -128,7 +133,7 @@ understanding of programming projects and lab exercises.
 
 CompTIA Security+ CE, 2022-present
 
-SAFe4 Certified Practitioner, 2017-2018
+SAFe4 Certified Practitioner, 2017
 
 Outstanding Student of the Year, Master of Science in Computer Science, WSU Recipient 2016
 
