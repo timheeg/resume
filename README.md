@@ -1,4 +1,7 @@
-Forward leaning Software Engineer with 20+ years with full development life-cycle. Masters degree. Technical lead focused on best practices, design patterns, and Agile processes in diverse program environments. Focus on concurrency, real-time and stream processing.
+Forward leaning Software Engineer with 20+ years with full development
+life-cycle. Masters degree. Technical lead focused on best practices, design
+patterns, and Agile processes in diverse program environments. Focus on
+concurrency, real-time and stream processing.
 
 ## Strengths
 
@@ -24,9 +27,9 @@ Reliable, hardworking, self-motivated, focused.
 * **Tools**: Artifactory, Nexus, Visual Studio, VS Code, PyCharm, GitLab, JIRA, Confluence
 * **Storage**: Memory image, Ring buffers, MySql, PostGIS/Postgres, Hadoop, MongoDB, SQL
 * **Servers**: Apache, nginx, reverse proxy
-* **Comms**: HTTP, REST, UDP, TCP, nanomsg, ZeroMQ, IPC, pipes, gRPC
-* **Cloud**: Docker, gRPC, Ansible, Vagrant, VirtualBox, Packer, vmWare
-* **OS**: Windows, Linux (RHEL, CentOS, Ubuntu), Solaris
+* **Comms**: gRPC, REST, UDP, TCP, nanomsg, ZeroMQ, IPC, pipes, HTTP
+* **Cloud**: Docker, WSL, gRPC, Ansible, Vagrant, VirtualBox, Packer, vmWare
+* **OS**: Windows, Linux (RHEL, Ubuntu, CentOS), Solaris
 * **Video**: MPEG-2, MPEG-2 TS, ffmpeg
 
 <br/>
@@ -39,7 +42,6 @@ Reliable, hardworking, self-motivated, focused.
 * TS/SCI 2021-present
 * A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
 * SAP experience in SAPF
-
 
 **Senior Software Engineer 2016-2021, Software Engineer 2008-2016** <br/>
 **Leidos Inc. (formerly SAIC)**
