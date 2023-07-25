@@ -39,14 +39,13 @@ Reliable, hardworking, self-motivated, focused.
 **Principal Software Engineer 2021-Present** <br/>
 **LinQuest LLC (acquired Hellebore Consulting Group in Jan 2023)**
 
-* TS/SCI 2021-present
+* TS/SCI clearance 2021-present, SAP experience in SAPF
 * A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
-* SAP experience in SAPF
 
 **Senior Software Engineer 2016-2021, Software Engineer 2008-2016** <br/>
 **Leidos Inc. (formerly SAIC)**
 
-* TS/SCI 2009-2021
+* TS/SCI clearance 2009-2021
 * Product lead for a video processing, playback and exploitation app.
 * Lead development team of 5-10 devs, testers, devops with architecture, design,
 planning, estimation, tasking, coordination, and process. Developed processes
