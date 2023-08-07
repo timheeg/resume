@@ -41,6 +41,15 @@ Reliable, hardworking, self-motivated, focused.
 
 * TS/SCI clearance 2021-present, SAP experience in SAPF
 * A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
+* Developed C++ display framework components for Pilot Vehicle Interface (PVI) using Qt/QML and C++17/C++20.
+* Designed strategic evolution for reactive streaming data architecture, after evaluating existing microservice and kernel processing design.
+  * Team lead for data streaming migration execution.
+  * Developed C++ data processing libraries for various protocols, including Distributed Interactive Simulation (DIS) and Open Mission Systems (OMS) variants.
+  * Used gRPC for data API schema (via protobuf) and comms.
+  * Used vcpkg for dependency management and nuget binary caching.
+* Designed and developed requirements compliance assessment framework to score arbitrary software source repos using Python and GitLab pipelines, and Gherkin defined architectural requirements.
+* Provided consultant advice for government and industry partners on software integration strategy, technical evaluation and assessment, and modern software engineering and agile practices.
+* Supported multiplatform IaC and CI/CD across air gapped domains, using docker containers, GitLab, bash.
 
 **Senior Software Engineer 2016-2021, Software Engineer 2008-2016** <br/>
 **Leidos Inc. (formerly SAIC)**
