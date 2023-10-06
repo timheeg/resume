@@ -39,7 +39,7 @@ Reliable, hardworking, self-motivated, focused.
 **Principal Software Engineer 2021-Present** <br/>
 **LinQuest LLC (acquired Hellebore Consulting Group in Jan 2023)**
 
-* TS/SCI clearance 2021-present, SAP experience in SAPF
+* TS active clearance 2021-present, SCI and Special Access eligible
 * A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
 * Developed C++ display framework components for Pilot Vehicle Interface (PVI) using Qt/QML and C++17/C++20.
 * Designed strategic evolution for reactive streaming data architecture, after evaluating existing microservice and kernel processing design.
@@ -54,7 +54,7 @@ Reliable, hardworking, self-motivated, focused.
 **Senior Software Engineer 2016-2021, Software Engineer 2008-2016** <br/>
 **Leidos Inc. (formerly SAIC)**
 
-* TS/SCI clearance 2009-2021
+* TS clearance 2009-2021, SCI eligible
 * Product lead for a video processing, playback and exploitation app.
 * Lead development team of 5-10 devs, testers, devops with architecture, design,
 planning, estimation, tasking, coordination, and process. Developed processes
