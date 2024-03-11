@@ -5,7 +5,7 @@ concurrency, real-time and stream processing.
 
 ## Strengths
 
-Ability to visualize and conceptualize complex integration issues
+Ability to visualize and conceptualize complex integration issues.
 <br/>
 Adapt quickly to new environments and challenges.
 <br/>
@@ -23,13 +23,13 @@ Reliable, hardworking, self-motivated, focused.
 
 * **Languages**: C++ (MSVC, gnu, clang), Python, Java, Groovy, Javascript, Qt, HTML, CSS, JSON, XML, OpenGL, Protobuf, LaTeX, Bash, Batch
 * **Build**: GitLab, Cmake, Vcpkg, Jenkins, Conan, Maven, npm, Gradle, make
-* **SCM**: Git, GitLab, Bitbucket, SVN, github
-* **Tools**: Artifactory, Nexus, Visual Studio, VS Code, PyCharm, GitLab, JIRA, Confluence
+* **SCM**: Git, GitLab, Bitbucket, GitHub, SVN
+* **Tools**: Artifactory, Nexus, VS Code, Visual Studio, PyCharm, GitLab, JIRA, Confluence
 * **Storage**: Memory image, Ring buffers, MySql, PostGIS/Postgres, Hadoop, MongoDB, SQL
 * **Servers**: Apache, nginx, reverse proxy
 * **Comms**: gRPC, REST, UDP, TCP, nanomsg, ZeroMQ, IPC, pipes, HTTP
 * **Cloud**: Docker, WSL, gRPC, Ansible, Vagrant, VirtualBox, Packer, vmWare
-* **OS**: Windows, Linux (RHEL, Ubuntu, CentOS), Solaris
+* **OS**: Windows, Linux (RHEL, Apline, Ubuntu, CentOS), Solaris
 * **Video**: MPEG-2, MPEG-2 TS, ffmpeg
 
 <br/>
@@ -42,14 +42,14 @@ Reliable, hardworking, self-motivated, focused.
 * TS active clearance 2021-present, SCI and Special Access eligible
 * A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
 * Developed C++ display framework components for Pilot Vehicle Interface (PVI) using Qt/QML and C++17/C++20.
-* Designed strategic evolution for reactive streaming data architecture, after evaluating existing microservice and kernel processing design.
-  * Team lead for data streaming migration execution.
+* Team lead for data streaming migration execution.
+  * Designed strategic evolution for reactive streaming data architecture, after evaluating existing microservice and kernel processing design.
   * Developed C++ data processing libraries for various protocols, including Distributed Interactive Simulation (DIS) and Open Mission Systems (OMS) variants.
   * Used gRPC for data API schema (via protobuf) and comms.
   * Used vcpkg for dependency management and nuget binary caching.
 * Designed and developed requirements compliance assessment framework to score arbitrary software source repos using Python and GitLab pipelines, and Gherkin defined architectural requirements.
 * Provided consultant advice for government and industry partners on software integration strategy, technical evaluation and assessment, and modern software engineering and agile practices.
-* Supported multiplatform IaC and CI/CD across air gapped domains, using docker containers, GitLab, bash.
+* Supported multiplatform IaC and CI/CD across air gapped domains, using docker containers, GitLab, bash, kaniko.
 
 **Senior Software Engineer 2016-2021, Software Engineer 2008-2016** <br/>
 **Leidos Inc. (formerly SAIC)**
