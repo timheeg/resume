@@ -9,11 +9,13 @@ Ability to visualize and conceptualize complex integration issues.
 <br/>
 Adapt quickly to new environments and challenges.
 <br/>
+Passionate about continuous improvement.
+<br/>
 Apply new technologies and methodologies to solve complex problems.
 <br/>
 Communicate technical impacts, resource utilization, and alternatives for risk assessment.
 <br/>
-Agilist, Clean coder, focused on Simplicity, Patterns, Testability, and DRY.
+Agilist, clean coder, focused on simplicity, patterns, testability.
 <br/>
 Reliable, hardworking, self-motivated, focused.
 
@@ -21,16 +23,18 @@ Reliable, hardworking, self-motivated, focused.
 
 ## Technical Skills
 
-* **Languages**: C++ (MSVC, gnu, clang), Python, Java, Groovy, Javascript, Qt, HTML, CSS, JSON, XML, OpenGL, Protobuf, LaTeX, Bash, Batch
-* **Build**: GitLab, Cmake, Vcpkg, Jenkins, Conan, Maven, npm, Gradle, make
+* **Languages**: C++ [MSVC, gnu, clang], Python, Java, Groovy, Javascript, Qt, OpenGL, Bash, Batch
+* **Markup**: JSON, YAML, TOML, XML, LaTex, HTML
+* **Build**: GitLab CI, Cmake, Vcpkg, Jenkins, Conan, Maven, npm, Gradle, make
 * **SCM**: Git, GitLab, Bitbucket, GitHub, SVN
-* **Tools**: Artifactory, Nexus, VS Code, Visual Studio, PyCharm, GitLab, JIRA, Confluence
-* **Storage**: Memory image, Ring buffers, MySql, PostGIS/Postgres, Hadoop, MongoDB, SQL
+* **Tools**: VS Code, Artifactory, Nexus, Visual Studio, PyCharm, JIRA, Confluence
+* **Lint/SCA**: clang-tidy, clang-format, clang A/TSAN, hadolint, cppcheck, cpplint, SonarQube, Fortify
+* **Storage**: Memory image, lock-free ring buffers, Cassandra, MySql, Postgres/PostGIS, Hadoop FS, MongoDB
+* **Comms**: gRPC, Protobuf, UDP, TCP, TLS, HTTP 2, REST, nanomsg, ZeroMQ, ActiveMQ, IPC, pipes
 * **Servers**: Apache, nginx, reverse proxy
-* **Comms**: gRPC, REST, UDP, TCP, nanomsg, ZeroMQ, IPC, pipes, HTTP
-* **Cloud**: Docker, WSL, gRPC, Ansible, Vagrant, VirtualBox, Packer, vmWare
-* **OS**: Windows, Linux (RHEL, Apline, Ubuntu, CentOS), Solaris
-* **Video**: MPEG-2, MPEG-2 TS, ffmpeg
+* **Cloud**: Docker, kaniko, k8s, WSL, Ansible, Vagrant, VirtualBox, Packer, vSphere, MapReduce
+* **OS**: Windows, Linux [RHEL, alpine, Ubuntu, CentOS], Solaris
+* **Video**: MPEG-2 TS, MPEG-2, DASH, ffmpeg, gstreamer
 
 <br/>
 
@@ -41,12 +45,13 @@ Reliable, hardworking, self-motivated, focused.
 
 * TS active clearance 2021-present, SCI and Special Access eligible
 * A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
-* Developed C++ display framework components for Pilot Vehicle Interface (PVI) using Qt/QML and C++17/C++20.
+* Designed strategic evolution for reactive streaming data architecture, after evaluating existing microservice and kernel processing design.
 * Team lead for data streaming migration execution.
-  * Designed strategic evolution for reactive streaming data architecture, after evaluating existing microservice and kernel processing design.
-  * Developed C++ data processing libraries for various protocols, including Distributed Interactive Simulation (DIS) and Open Mission Systems (OMS) variants.
-  * Used gRPC for data API schema (via protobuf) and comms.
-  * Used vcpkg for dependency management and nuget binary caching.
+* Used gRPC for data API schema (via protobuf) and comms, with plans to move to Kafka Streams.
+* Used Cassandra as an application data store for streaming event data.
+* Developed C++ data processing libraries for various protocols, including Distributed Interactive Simulation (DIS) and Open Mission Systems (OMS) variants.
+* Used vcpkg for dependency management and nuget binary caching.
+* Developed C++ display framework components for Pilot Vehicle Interface (PVI) using Qt/QML and C++17/C++20.
 * Designed and developed requirements compliance assessment framework to score arbitrary software source repos using Python and GitLab pipelines, and Gherkin defined architectural requirements.
 * Provided consultant advice for government and industry partners on software integration strategy, technical evaluation and assessment, and modern software engineering and agile practices.
 * Supported multiplatform IaC and CI/CD across air gapped domains, using docker containers, GitLab, bash, kaniko.
