@@ -168,7 +168,7 @@ GPA
 
 ## Miscellaneous
 
-CompTIA Security+ CE, 2022-present
+CompTIA Security+ CE, 2022-present, Verification E3J4FG1SCF411Y9D
 
 SAFe4 Certified Practitioner, 2017
 
