@@ -18,8 +18,8 @@ Reliable, hardworking, self-motivated, focused.
 
 ## Technical Skills
 
-* **Languages**: C++ [MSVC, gnu, clang], Python, Java, Groovy, Javascript, Qt,
-  OpenGL, Bash, Batch
+* **Languages**: C++17/20/23 (gnu, clang, msvc), Python, Java, Groovy,
+  Javascript, Qt, OpenGL, Bash, Batch
 * **Markup**: JSON, YAML, TOML, XML, LaTex, HTML
 * **Build**: GitLab CI, Cmake, Vcpkg, Jenkins, Conan, Maven, npm, Gradle, make
 * **SCM**: Git, GitLab, Bitbucket, GitHub, SVN
@@ -49,15 +49,16 @@ Reliable, hardworking, self-motivated, focused.
 * Designed strategic evolution for reactive streaming data architecture, after
   evaluating existing microservice and kernel processing design.
 * Team lead for data streaming migration execution.
-* Used gRPC for data API schema (via protobuf) and comms, with plans to move to
-  Kafka Streams.
+* Used gRPC for data API schema via protobuf.
 * Used Cassandra as an application data store for streaming event data.
-* Developed C++ data processing libraries for various protocols, including
+* Developed C++20 data processing libraries for various protocols, including
   Distributed Interactive Simulation (DIS) and Open Mission Systems (OMS)
-  variants.
+  variants via ActiveMQ.
 * Used vcpkg for dependency management and nuget binary caching.
 * Developed C++ display framework components for Pilot Vehicle Interface (PVI)
   using Qt/QML and C++17/C++20.
+* Applied Threat Modeling during software development.
+* Developed CI/CD pipelines including SAST, linting, and vulnerability scans.
 * Designed and developed requirements compliance assessment framework to score
   arbitrary software source repos using Python and GitLab pipelines, and Gherkin
   defined architectural requirements.
