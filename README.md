@@ -41,10 +41,15 @@ Reliable, hardworking, self-motivated, focused.
 
 ## Professional Experience
 
-**Principal Software Engineer 2021-Present** <br/>
+**Principal Software Engineer 2024-present** <br/>
+**NextGen Federal Systems**
+
+* TS active clearance 2024-preset, SCI eligible
+
+**Principal Software Engineer 2021-2024** <br/>
 **LinQuest LLC (acquired Hellebore Consulting Group in Jan 2023)**
 
-* TS active clearance 2021-present, SCI and Special Access eligible
+* TS active clearance 2021-2024, SCI and Special Access eligible
 * A&AS contractor for AFLCMC Fighters & Advanced Aircraft Directorate (WA)
 * Designed strategic evolution for reactive streaming data architecture, after
   evaluating existing microservice and kernel processing design.
@@ -168,7 +173,11 @@ GPA
 
 ## Miscellaneous
 
-CompTIA Security+ CE, 2022-present, Verification E3J4FG1SCF411Y9D
+AWS Certified Cloud Practitioner, 2024-2027,
+<https://www.credly.com/badges/4b6c8f63-6da1-44da-8656-fe5cefbefddb/public_url>
+
+CompTIA Security+ CE, 2022-2028,
+<https://www.credly.com/badges/935324b7-b140-405f-a48e-223d320fbc96/public_url>
 
 SAFe4 Certified Practitioner, 2017
 
